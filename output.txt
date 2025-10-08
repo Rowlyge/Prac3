@@ -1,9 +1,0 @@
-=== ДАННЫЕ ЗАПИСАННЫЕ В ФАЙЛ ===
-Время создания: 1759915596
-Этот текст записан через перенаправленный stdout
-Строка 1: Hello from redirected output!
-Строка 2: Hello from redirected output!
-Строка 3: Hello from redirected output!
-Строка 4: Hello from redirected output!
-Строка 5: Hello from redirected output!
-=== КОНЕЦ ДАННЫХ ===
